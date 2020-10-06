@@ -45,6 +45,10 @@ h1 {
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+a {
+  {text-decoration: none;}
+}
+
 .timeline ul {
   background: #456990;
   padding: 50px 0;
