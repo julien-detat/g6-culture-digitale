@@ -5,17 +5,17 @@
     {
       "Titre": "Apparition des logos",
       "Date":"Fin des années 1400",
-      "Résumé":"C’est l’imprimerie qui a utilisé en premier les logos.",
+      "Résumé":"L'utilisation des logos est arrivée en premier dans le domaine de l'imprimerie",
       "Catégorie":"Logo",
       //Lien a copier dedans
       "Lien":"<a href='https://99designs.fr/blog/histoire-design-genres-mouvements/histoire-design-graphique/#firstlogos'>99designs</a>"
     },
     {
-      "Titre": "No friend but the mountains",
-      "Date":"Writing from manu prison",
-      "Résumé":"Behrouz Boochani",
-      "Catégorie":"Webdesign",
-      "Lien":"Pan Macmillan Australia"
+      "Titre": "Les polices de caractères",
+      "Date":"1450",
+      "Résumé":"Les polices d'écriture sont nées en même temps que l'imprimerie à caractères mobiles de Johannes Gutenberg vers 1450, qui permettait ainsi de réaliser des exemplaires imprimés en série d'ouvrages",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href='https://www.actualitte.com/article/monde-edition/la-premiere-police-d-ecriture-du-monde/65943#:~:text=Les%20polices%20d'%C3%A9criture%20sont,imprim%C3%A9s%20en%20s%C3%A9rie%20d'ouvrages.'>ActuaLitté</a>"
     },
     {
       "Titre": "Indian Harvest",
@@ -128,17 +128,17 @@
                     return token.trim() !== '';
                   });
    if(tokens.length) {
-    //  Create a regular expression of all the search terms
+    //  Créer une expression de recherche
     var searchTermRegex = new RegExp(tokens.join('|'), 'gim');
     var filteredList = dates.filter(function(date){
-      // Create a string of all object values
+      // Créer une chaine de caractere
       var dateString = '';
       for(var key in date) {
         if(date.hasOwnProperty(key) && date[key] !== '') {
           dateString += date[key].toString().toLowerCase().trim() + ' ';
         }
       }
-      // Return date objects where a match with the search regex if found
+      
       return dateString.match(searchTermRegex);
     });
     // Rendu des résultats obtenus
