@@ -7,10 +7,11 @@
     h1 {
       text-align: center;
       clear: both;
+      font-size: 36px;
     }
 
     h2 {
-      font-size: 18px;
+      font-size: 16px;
       text-align: center;
     }
 
@@ -38,7 +39,7 @@
       height: 40px;
       background-color: #EED7D2;
       box-shadow: 0px 6px 10px 5px rgba(240,228,226,0.75);
-      margin-bottom: 50px;
+      margin-bottom: 30px;
     }
 
     strong {
