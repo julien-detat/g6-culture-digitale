@@ -8,28 +8,33 @@
       "Résumé":"L'utilisation des logos est arrivée en premier dans le domaine de l'imprimerie",
       "Catégorie":"Logo",
       //Lien a copier dedans
-      "Lien":"<a href='https://99designs.fr/blog/histoire-design-genres-mouvements/histoire-design-graphique/#firstlogos'>99designs</a>"
+      "Lien":"<a href='https://99designs.fr/blog/histoire-design-genres-mouvements/histoire-design-graphique/#firstlogos'>99designs</a>",
+      "Image":"<img src='https://www.agencewebdigitale.com/wp-content/uploads/2012/07/news_webdesign_bases.jpg'>"
     },
     {
       "Titre": "Les polices de caractères",
       "Date":"1450",
       "Résumé":"Les polices d'écriture sont nées en même temps que l'imprimerie à caractères mobiles de Johannes Gutenberg vers 1450, qui permettait ainsi de réaliser des exemplaires imprimés en série d'ouvrages",
       "Catégorie":"Font / Police",
-      "Lien":"<a href='https://www.actualitte.com/article/monde-edition/la-premiere-police-d-ecriture-du-monde/65943#:~:text=Les%20polices%20d'%C3%A9criture%20sont,imprim%C3%A9s%20en%20s%C3%A9rie%20d'ouvrages.'>ActuaLitté</a>"
+      "Lien":"<a href='https://www.actualitte.com/article/monde-edition/la-premiere-police-d-ecriture-du-monde/65943#:~:text=Les%20polices%20d'%C3%A9criture%20sont,imprim%C3%A9s%20en%20s%C3%A9rie%20d'ouvrages.'>ActuaLitté</a>",
+      "Image":"<img src='https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg'>"   
     },
     {
       "Titre": "Indian Harvest",
       "Date":"Classic and contemporary vegetarian dishes",
       "Résumé":"Vikas Khanna",
       "Catégorie":"Nouvelle technologie",
-      "Lien":"Bloomsbury USA"
+      "Lien":"Bloomsbury USA",
+      "Image":"<img src='https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg'>"   
     },
     {
       "Titre": "Upheaval",
       "Date":"Turning points for nations in crisis",
       "Résumé":"Jared Diamond",
       "Catégorie":"Programming",
-      "Lien":"Little, Brown & Company"
+      "Lien":"Little, Brown & Company",
+      "Image":"<img src='https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg'>"   
+
     },
     {
       "Titre": "Algorithms",
@@ -107,6 +112,7 @@
                 '<strong>Résumé: </strong>' + date.Résumé + '<br/>' +
                 '<strong>Catégorie: </strong>' + date.Catégorie + '<br/>' +
                 '<strong>Lien: </strong>' + date.Lien + '<br/>' +
+                '<strong></strong>' + date.Image + '<br/>' +
                 '<br/><hr>' +
               '</li>';
       }).join('');
@@ -138,7 +144,7 @@
           dateString += date[key].toString().toLowerCase().trim() + ' ';
         }
       }
-      
+
       return dateString.match(searchTermRegex);
     });
     // Rendu des résultats obtenus
