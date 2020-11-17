@@ -7,7 +7,6 @@
       "Date":"Fin des années 1400",
       "Résumé":"L'utilisation des logos est arrivée en premier dans le domaine de l'imprimerie",
       "Catégorie":"Logo",
-      //Lien a copier dedans
       "Lien":"<a href='https://99designs.fr/blog/histoire-design-genres-mouvements/histoire-design-graphique/#firstlogos'>99designs</a>",
       "Image":"<img src='https://www.agencewebdigitale.com/wp-content/uploads/2012/07/news_webdesign_bases.jpg'>"
     },
@@ -20,84 +19,92 @@
       "Image":"<img src='https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg'>"   
     },
     {
-      "Titre": "Indian Harvest",
-      "Date":"Classic and contemporary vegetarian dishes",
-      "Résumé":"Vikas Khanna",
-      "Catégorie":"Nouvelle technologie",
-      "Lien":"Bloomsbury USA",
-      "Image":"<img src='https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg'>"   
-    },
-    {
-      "Titre": "Upheaval",
-      "Date":"Turning points for nations in crisis",
-      "Résumé":"Jared Diamond",
-      "Catégorie":"Programming",
-      "Lien":"Little, Brown & Company",
-      "Image":"<img src='https://www.uxweb-design.com/wp-content/uploads/2019/10/Web-design-1.jpg'>"   
-
-    },
-    {
-      "Titre": "Algorithms",
-      "Date":"Fourth Edition",
-      "Résumé":"Robert Sedgewick, Kevin Wayne",
-      "Catégorie":"Programming",
-      "Lien":"Addison Wesley"
-    },
-    {
-      "Titre": "How We Die",
-      "Date":"Reflections on Life's Final Chapter",
-      "Résumé":"Sherwin B. Nuland",
-      "Catégorie":"Design",
-      "Lien":"Vintage"
-    },
-    {
-      "Titre": "The Circle",
+      "Titre": "",
       "Date":"",
-      "Résumé":"Dave Eggers",
-      "Catégorie":"Design",
-      "Lien":"Vintage"
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
     },
     {
-      "Titre": "The Algorithm Design Manual",
+      "Titre": "",
       "Date":"",
-      "Résumé":"Steven S. Skiena",
-      "Catégorie":"Programming",
-      "Lien":"Springer"
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
     },
     {
-      "Titre": "I Contain Multitudes",
-      "Date":"The microbes within us and a grander view of life",
-      "Résumé":"Ed Yong",
-      "Catégorie":"Typographie",
-      "Lien":"HarperCollins"
-    },
-    {
-      "Titre": "The Silkwarm",
-      "Date":"A Cormoran Strike Novel",
-      "Résumé":"Robert Galbraith",
-      "Catégorie":"UX",
-      "Lien":"Mulholland"
-    },
-    {
-      "Titre": "Cosmos",
+      "Titre": "",
       "Date":"",
-      "Résumé":"Carl Sagan",
-      "Catégorie":"Typographie",
-      "Lien":"Ballantine"
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
     },
     {
-      "Titre": "Comanche Moon",
+      "Titre": "",
       "Date":"",
-      "Résumé":"Larry McMurtry",
-      "Catégorie":"Ordinateur",
-      "Lien":"Simon & Schuster"
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
     },
     {
-      "Titre": "Nine Pints",
-      "Date":"A journey through the money, medicine, and mysteries of blook",
-      "Résumé":"Rose George",
-      "Catégorie":"Ordinateur",
-      "Lien":"Metropolitan"
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href=''></a>",
+      "Image":"<img src='#'>"   
     },
   ]
   
