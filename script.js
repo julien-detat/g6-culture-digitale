@@ -59,6 +59,70 @@
       "Image":"<img src='https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/05/DwigginsPortrait.jpg?auto=format&q=60&fit=max&w=930'>"   
     },
       {
+      "Titre": "Apparition des images de synthèse",
+      "Date":"1950",
+      "Résumé":"Les images de synthèse sont apparues au début des années 1950. Les images de synthèse informatiques actuelles reposent sur les mêmes principes de projection sur un plan et sont indissociables de l’histoire de l’informatique.",
+      "Catégorie":"Image de synthèse",
+      "Lien":"<a href='http://www.ensci.com/file_intranet/mastere_ctc/etude_Muzhou_Huang.pdf' target='_blank'>Ensci</a>",
+      "Image":"<img src='https://upload.wikimedia.org/wikipedia/commons/a/ad/Utah_teapot.png'>"   
+    },
+      {
+      "Titre": "Henry Dreyfuss - Designing for the people",
+      "Date":"1955",
+      "Résumé":"Henry Dreyfuss publie son ouvrage “Designing for the people” détaillant sa vision basée à la fois sur le sens commun et une approche scientifique. Ce livre met ainsi en avant la dimension de plaisir d’utilisation des objets pour en maximiser l’usage. Ce postulat se trouve désormais à la base de toute démarche d’UX-Design.",
+      "Catégorie":"Ordinateur",
+      "Lien":"<a href='https://www.ux-republic.com/ux-design-les-origines/' target='_blank'>UX-Repblic</a>",
+      "Image":"<img src='https://i2.wp.com/www.ux-republic.com/wp-content/uploads/2018/09/ux-design-article-1024x683.jpeg?resize=1024%2C683'>"   
+    },
+      {
+      "Titre": "Les premiers pas de l'ordinateur dans l'animation",
+      "Date":"1960",
+      "Résumé":"La première image de synthèse, créée dans les années 1960 par William Fetter, était un pilote. Mais l'animation par ordinateur repose aussi sur le développement du jeu vidéo, de la réalité virtuelle, et, bien entendu, sur les progrès de l'informatique et l'invention de la micro-informatique. Ceux-ci réduisent les temps de calcul et, grâce à eux, les animateurs - et tout un chacun - ont accès aux ordinateurs, autrefois réservés à l'armée, aux laboratoires ou aux universités. ",
+      "Catégorie":"Image de synthèse",
+      "Lien":"<a href='https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/4/' target='_blank'>Futura-sciences</a>",
+      "Image":"<img src='https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/3/9/4/3947480f6c_128449_fs-toystory.jpg'>"   
+    },
+      {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href='' target='_blank'></a>",
+      "Image":"<img src='#'>"   
+    },
+      {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href='' target='_blank'></a>",
+      "Image":"<img src='#'>"   
+    },
+      {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href='' target='_blank'></a>",
+      "Image":"<img src='#'>"   
+    },
+      {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href='' target='_blank'></a>",
+      "Image":"<img src='#'>"   
+    },
+      {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":"Font / Police",
+      "Lien":"<a href='' target='_blank'></a>",
+      "Image":"<img src='#'>"   
+    },
+      {
       "Titre": "",
       "Date":"",
       "Résumé":"",
