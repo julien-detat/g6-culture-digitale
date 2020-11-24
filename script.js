@@ -169,16 +169,15 @@
     var datesHTMLString = '<div id="timeline-content"><ul class="timeline">'+
       data.map(function(date){
         // Retourne les données sour forme de liste
-        return '<li class="event>'+
+        return '<li class="event">'+
                 '<h3>Titre:' + date.Titre + '</h3>' +
-                '<p><time class="event">Date:' + date.Date + '</time></p><br/>' +
+                '<p><time">Date:' + date.Date + '</time></p><br/>' +
                 '<p>Résumé:' + date.Résumé + '</p><br/>' +
                 'Catégorie:' + date.Catégorie + '<br/>' +
                 date.Lien + '<br/>' +
                 date.Image + '<br/>' +
                 '<br/>' +
-              '</li>' +
-              '<hr>';
+              '</li>';
       }).join('');
       + '</ul></div>';
 

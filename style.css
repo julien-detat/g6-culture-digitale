@@ -198,6 +198,8 @@ h2 {
 }
 
 
+
+
 hr {
   margin-bottom: 70px;
   height: 1px;
@@ -247,7 +249,7 @@ hr {
 }
 
 .timeline .event {
-  border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid #004ffc;
   padding-bottom: 25px;
   margin-bottom: 50px;
   position: relative;
