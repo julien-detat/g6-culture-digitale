@@ -23,7 +23,7 @@
       "Date":" 1866",
       "Résumé":" À l'origine, Pantone est une petite société, fondée en 1866, qui fabrique des nuanciers pour les fabricants de cosmétiques. Lawrence Herbert rejoint Pantone en 1956 et la rachète en 1962. Il y développe son premier système de couleurs Pantone Matching System ou PMS pour l'impression en 1963.",
       "Catégorie":" Couleur",
-      "Lien":"<a href='https://fr.wikipedia.org/wiki/Pantone_(entreprise)#:~:text=%C3%80%20l'origine%2C%20Pantone%20est,pour%20l'impression%20en%201963.' target='_blank'>Wikipédia - Pantone (entreprise)</a>",
+      "Lien":"<a href='https://fr.wikipedia.org/wiki/Pantone_(entreprise)#:~:text=%C3%80%20l'origine%2C%20Pantone%20est,pour%20l'impression%20en%201963.' target='_blank'>Pantone</a>",
       "Image":"<img src='https://upload.wikimedia.org/wikipedia/fr/thumb/3/3f/Pantone_2006_logo.svg/langfr-560px-Pantone_2006_logo.svg.png'>"   
     },
     {
@@ -170,10 +170,10 @@
       data.map(function(date){
         // Retourne les données sour forme de liste
         return '<li class="event">'+
-                '<h3>Titre:' + date.Titre + '</h3>' +
-                '<p><time">Date:' + date.Date + '</time></p><br/>' +
-                '<p>Résumé:' + date.Résumé + '</p><br/>' +
-                'Catégorie:' + date.Catégorie + '<br/>' +
+                '<h3>' + date.Titre + '</h3>' +
+                '<p><time">' + date.Date + '</time></p><br/>' +
+                '<p>' + date.Résumé + '</p><br/>' +
+                'Catégorie: ' + date.Catégorie + '<br/>' +
                 date.Lien + '<br/>' +
                 date.Image + '<br/>' +
                 '<br/>' +
