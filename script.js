@@ -62,7 +62,7 @@
       "Titre": "Apparition des images de synthèse",
       "Date":" 1950",
       "Résumé":" Les images de synthèse sont apparues au début des années 1950. Les images de synthèse informatiques actuelles reposent sur les mêmes principes de projection sur un plan et sont indissociables de l’histoire de l’informatique.",
-      "Catégorie":" Image de synthèse",
+      "Catégorie":" Image",
       "Lien":"<a href='http://www.ensci.com/file_intranet/mastere_ctc/etude_Muzhou_Huang.pdf' target='_blank'>Ensci</a>",
       "Image":"<img src='https://upload.wikimedia.org/wikipedia/commons/a/ad/Utah_teapot.png'>"   
     },
@@ -77,8 +77,8 @@
       {
       "Titre": "Les premiers pas de l'ordinateur dans l'animation",
       "Date":" 1960",
-      "Résumé":" La première image de synthèse, créée dans les années 1960 par William Fetter, était un pilote. Mais l'animation par ordinateur repose aussi sur le développement du jeu vidéo, de la réalité virtuelle, et, bien entendu, sur les progrès de l'informatique et l'invention de la micro-informatique. Ceux-ci réduisent les temps de calcul et, grâce à eux, les animateurs - et tout un chacun - ont accès aux ordinateurs, autrefois réservés à l'armée, aux laboratoires ou aux universités. ",
-      "Catégorie":" Image de synthèse",
+      "Résumé":"Ce renouveau de l'animation commence très tôt. Il doit beaucoup à des besoins plus pragmatiques que le divertissement : simulation de vols en aéronautique, visualisation du corps humain en médecine, etc. C'est pourquoi la première image, créée dans les années 1960 par William Fetter, était un pilote. Mais l'animation par ordinateur repose aussi sur le développement du jeu vidéo, de la réalité virtuelle, et, bien entendu, sur les progrès de l'informatique et l'invention de la micro-informatique.",
+      "Catégorie":" Image",
       "Lien":"<a href='https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/4/' target='_blank'>Futura-sciences</a>",
       "Image":"<img src='https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/3/9/4/3947480f6c_128449_fs-toystory.jpg'>"   
     },
@@ -149,12 +149,100 @@
       {
       "Titre": "L'industrie vidéoludique",
       "Date":"1970",
-      "Résumé":"",
-      "Catégorie":" ",
+      "Résumé":"Les jeux vidéo sont si populaires que naît une nouvelle industrie : l'industrie vidéoludique, qui influencera beaucoup le design dans sa globalité dans les années futures.",
+      "Catégorie":" Image",
+      "Lien":"<a href='https://en.wikipedia.org/wiki/Digital_Revolution' target='_blank'>Digital Revolution</a>",
+      "Image":"<img src='#'>"   
+    },
+      {
+      "Titre": "Les alternatives du RGB",
+      "Date":"Année 70",
+      "Résumé":"Teinte, saturation, luminosité (ou valeur) sont les trois paramètres de description d'une couleur dans une approche psychologique de cette perception. Cette expression désigne des modèles de description des couleurs utilisés en graphisme informatique et en infographie, qui adaptent ces paramètres.",
+      "Catégorie":" Couleur",
+      "Lien":"<a href='https://en.wikipedia.org/wiki/HSL_and_HSV' target='_blank'>TSL</a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "Affichage LCD",
+      "Date":"1971",
+      "Résumé":"Présentation des premiers affichages LCD, à l'origine en noir et blanc. Ils ne seront développés en couleur qu'en 1984 par Thomson.",
+      "Catégorie":" Ordinateur",
+      "Lien":"<a href='https://www.cigref.fr/archives/histoire-cigref/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/' target='_blank'>Cigref</a>",
+      "Image":"<img src='#'>"   
+    },
+      {
+      "Titre": "PLATO IV",
+      "Date":"1972",
+      "Résumé":"IBM présente le « PLATO IV », ordinateur équipé d’un dispositif optique de reconnaissance du toucher de l’écran. Des leds infrarouges réparties autour de l’écran permettent de détecter la présence du doigt. Les étudiants peuvent ainsi faire des exercices en touchant l’écran du doigt pour indiquer la bonne réponse.",
+      "Catégorie":" Ordinateur",
+      "Lien":"<a href='https://www.cigref.fr/archives/histoire-cigref/blog/histoire-des-premiers-ecrans-aux-ecrans-tactiles/' target='_blank'>Cigref</a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "Xerox PARC et son interface graphique",
+      "Date":"1973",
+      "Résumé":"La première interface graphique a été créée en 1973 sur le Xerox Alto par les ingénieurs du Xerox PARC pour remplacer les interfaces en ligne de commande. Les interfaces graphiques sont mises en œuvre par un ensemble de logiciels souvent inclus dans les systèmes d'exploitation (Windows) ou fournis avec eux par les distributions (Linux). Ils sont devenus vers le milieu des années 1990 le standard des appareils informatiques, notamment ordinateurs, tablettes, téléphones.",
+      "Catégorie":" Logiciel / Ordinateur",
       "Lien":"<a href='' target='_blank'></a>",
       "Image":"<img src='#'>"   
     },
       {
+      "Titre": "Le Xerox Alto",
+      "Date":"1973",
+      "Résumé":"Le Xerox Alto a été conçu au Xerox PARC en 1973. Il fut l'un des premiers ordinateurs à écran d'usage personnel et le premier à utiliser la métaphore du bureau, ainsi qu'une interface graphique.",
+      "Catégorie":" Ordinateur",
+      "Lien":"<a href='https://fr.wikipedia.org/wiki/Xerox_Alto' target='_blank'>Xerox Alto</a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "Le Pixel Art",
+      "Date":"1973",
+      "Résumé":"L'expression Pixel Art est né avec le jeu vidéo (1973) mais n'est reprise réellement qu'à partir des années 2 000 avec l'apparition de plusieurs œuvres d'art contemporain.",
+      "Catégorie":" Image",
+      "Lien":"<a href='https://fr.wikipedia.org/wiki/Pixel_art#L'%C3%A2ge_d'or' target='_blank'>Pixel Art</a>",
+      "Image":"<img src='#'>"   
+    },
+      {
+      "Titre": "La fameuse théière de l'Utah",
+      "Date":"1975",
+      "Résumé":"Cette année là fut créée une des plus célèbres images de l’infographie, la théière, devenue depuis un objet classique de test pour les applications 3D.",
+      "Catégorie":" Image",
+      "Lien":"<a href='https://www.construction21.org/belgique/articles/be/architecture-la-3d-fait-son-cinema.html#:~:text=En%201975%20fut%20cr%C3%A9%C3%A9e%20une,son%20image%20en%20trois%20dimensions' target='_blank'>Construction21</a>",
+      "Image":"<img src='https://upload.wikimedia.org/wikipedia/commons/a/ad/Utah_teapot.png'>"   
+    },
+    {
+      "Titre": "Muriel Cooper - Visible Language Workshop",
+      "Date":"1975",
+      "Résumé":"Elle a fondé le Visible Language Workshop qu'elle a dirigé pendant 12 ans, équipe fondatrice du MIT Media Lab en 1985. Durant toute sa carrière, elle a mis au centre de sa pratique et de sa recherche l'exploration et l'appropriation des moyens de production du design graphique : de l'impression à l'informatique.",
+      "Catégorie":" Design",
+      "Lien":"<a href='https://fr.wikipedia.org/wiki/Muriel_Cooper' target='_blank'>Muriel Cooper</a>",
+      "Image":"<img src='https://miro.medium.com/max/371/1*BxeeTRmxWp-jO2T-Di_v0w.jpeg'>"   
+    },
+    {
+      "Titre": "L'Apple II",
+      "Date":"1977",
+      "Résumé":"L'ère de la micro-informatique s'ouvre en 1977 avec l'Apple II, conçu par Steve Wozniak, qui est l'un des premiers ordinateurs personnels fabriqués à grande échelle.",
+      "Catégorie":" Ordinateur",
+      "Lien":"<a href='https://edu-html.ac-versailles.fr/lyc-rabelais-meudon/AntoineAlexandreDates/Apple%20II.html#:~:text=L'Apple%20II%20est%20l,large%20public%20par%20la%20suite.' target='_blank'>Apple II</a>",
+      "Image":"<img src='https://edu-html.ac-versailles.fr/lyc-rabelais-meudon/AntoineAlexandreDates/Apple_II_tranparent_800.png'>"   
+    },
+    {
+      "Titre": "Space Invaders",
+      "Date":"1978",
+      "Résumé":"C'est le jeu de référence. De ce fait, il devient le premier titre dit « killer application » pour les consoles de jeux vidéo. Par la suite, la représentation par des pixels des aliens dans le jeu devient une icône médiatique pour symboliser le monde des jeux vidéo.",
+      "Catégorie":" Logiciel",
+      "Lien":"<a href='https://fr.wikipedia.org/wiki/Space_Invaders' target='_blank'>Space Invaders</a>",
+      "Image":"<img src='https://upload.wikimedia.org/wikipedia/commons/8/80/Space_Invaders_style.png'>"   
+    },
+    {
+      "Titre": "Le JPEG",
+      "Date":"1978",
+      "Résumé":"JPEG (acronyme de Joint Photographic Experts Group) est une norme qui définit le format d'enregistrement et l'algorithme de décodage pour une représentation numérique compressée d'une image fixe.",
+      "Catégorie":" Image",
+      "Lien":"<a href='https://fr.wikipedia.org/wiki/JPEG' target='_blank'>JPEG</a>",
+      "Image":"<img src='https://edu-html.ac-versailles.fr/lyc-rabelais-meudon/CorentinGuillaumeFormats/jpeg.png'>"   
+    },
+    {
       "Titre": "",
       "Date":"",
       "Résumé":"",
@@ -170,7 +258,7 @@
       "Lien":"<a href='' target='_blank'></a>",
       "Image":"<img src='#'>"   
     },
-      {
+    {
       "Titre": "",
       "Date":"",
       "Résumé":"",
@@ -186,7 +274,7 @@
       "Lien":"<a href='' target='_blank'></a>",
       "Image":"<img src='#'>"   
     },
-      {
+    {
       "Titre": "",
       "Date":"",
       "Résumé":"",
@@ -202,7 +290,31 @@
       "Lien":"<a href='' target='_blank'></a>",
       "Image":"<img src='#'>"   
     },
-      {
+    {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":" ",
+      "Lien":"<a href='' target='_blank'></a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":" ",
+      "Lien":"<a href='' target='_blank'></a>",
+      "Image":"<img src='#'>"   
+    },
+    {
+      "Titre": "",
+      "Date":"",
+      "Résumé":"",
+      "Catégorie":" ",
+      "Lien":"<a href='' target='_blank'></a>",
+      "Image":"<img src='#'>"   
+    },
+    {
       "Titre": "",
       "Date":"",
       "Résumé":"",
